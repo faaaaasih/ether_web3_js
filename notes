@@ -3,3 +3,15 @@ npx is a tool that executes packages where as npm istalsls packages
 npm init -y will intialise the pakcage.json file for you 
 
 use npx hardhat to install hardhat bit t does not show up on the package.jsoni file -  need to use npm install -save-dev hardhat
+
+create 3 folders - contracts,scripts and tests
+
+install extra dependcies - 
+npm install --save-dev @nomiclabs/hardhat-waffle @nomiclabs/hardhat-ethers ethereum-waffle chai  ethers solidity-coverage
+
+hardhat-waffle - waffle is a testing package for solidity contracts. hardhat-waffle is a compatability plugin for hardhat
+hardhat-ethers - ethers compatability
+ethereium-waffle - testing lib 
+chai - assertion library
+ethers - ethereium compatabultiy 
+sol coverage - coverage with the help on instanbul
