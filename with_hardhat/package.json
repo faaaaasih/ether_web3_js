@@ -7,7 +7,6 @@
     "compile": "hardhat compile",
     "test:light": "hardhat test",
     "test_coverage": "hardhat coverage"
-
   },
   "keywords": [],
   "author": "",
