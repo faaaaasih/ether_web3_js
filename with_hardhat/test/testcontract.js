@@ -8,15 +8,9 @@ describe ("MyContractTest", () => {
 
         await contract_d.deployed()
 
-        expect(await contract_d.)
-
-
+        expect(await contract_d.returnName()).to.equal("My Contract")
 
     })
-
-
-
-
 
 
 })
