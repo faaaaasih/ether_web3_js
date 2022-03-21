@@ -14,5 +14,9 @@ contract newContract {
     function setaddress() public {
         s_address = msg.sender;
     }
+    
+    function returnName() public view returns (string memory){
+        return name;
+    }
 
 }
