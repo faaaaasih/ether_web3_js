@@ -16,6 +16,8 @@ chai - assertion library
 ethers - ethereium compatabultiy 
 sol coverage - coverage with the help on instanbul
 
+ether.js > web3
+
 addded scripts to the package.json file in order to run the compile and tests for hardhat 
 
 created a smart contract and used npm run 'compile' as per package s
