@@ -1,40 +1,4 @@
 {
   "_format": "hh-sol-cache-2",
-  "files": {
-    "/Users/fasihqureshi/Desktop/ether_web3_js/with_hardhat/contracts/contract.sol": {
-      "lastModificationDate": 1647705166991,
-      "contentHash": "ee865dc43803e5e2ba6bb872152b7f97",
-      "sourceName": "contracts/contract.sol",
-      "solcConfig": {
-        "version": "0.8.12",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.12"
-      ],
-      "artifacts": [
-        "newContract"
-      ]
-    }
-  }
+  "files": {}
 }
